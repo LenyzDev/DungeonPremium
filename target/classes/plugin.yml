@@ -1,0 +1,7 @@
+name: DungeonPremium
+version: '1.0-SNAPSHOT'
+main: mineway.dungeonpremium.DungeonPremium
+api-version: '1.20'
+commands:
+  premium:
+    aliases: [ assinatura, assinaturas ]

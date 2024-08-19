@@ -1,0 +1,13 @@
+redis:
+  host: 172.17.0.1
+  port: 1000
+  password: pass
+
+MySQL:
+  ip: "localhost:3306"
+  database: "database"
+  username: "user"
+  password: "password"
+
+reward-commands:
+  - "money add {player} 1000"
